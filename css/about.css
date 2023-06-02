@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    backdrop-filter: blur(8px);
+}
+
+/* .navbar{
+    box-shadow: 0 5px 10px #efefef !important;
+    
+} */
+.nav{
+    float: right;
+}
+#navbarNav{
+    color: black !important;
+}
+.container{
+    margin: auto !important;
+    width: 80% !important;
+    
+}
+
+/* .image{
+    background-image: url(images/sealion.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+} */
+
+.text{
+    text-align: center;
+    margin: auto !important;
+    width: 50% !important;
+    text-align: left !important;
+    color: white;
+    font-family: Poppins;
+    font-size: 22px;
+    background: transparent;
+    box-shadow: 0 0 5px 2px #efefef;
+    padding: 25px;
+    
+}
+
+.text h1{
+    text-align: center;
+}
+
+.carousel-example-1z{
+    /* margin-top: 25px !important;
+    margin-bottom: 15px !important; */
+}
+.footer{
+    padding: 30px;
+}
